@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = 'localhost';
-$dbuser = 'ultimate';
-$dbpass = 'ultimate';
-$dbname = 'ultimate';
+$dbhost = 'sql204.ezyro.com';
+$dbuser = 'ezyro_39951255';
+$dbpass = '3c01f4959e93';
+$dbname = 'ezyro_39951255_aiyatest';
 $dbtable_prefix = ''; // default empty
 $dbtable_shortlink_pool_prefix = ''; // default empty
 $display_errors = true; // change to false once installed and tested
